@@ -1,0 +1,16 @@
+C:\Temp\ws-vs2021\DIO.Series\obj\Debug\net5.0\DIO.Series.csprojAssemblyReference.cache
+C:\Temp\ws-vs2021\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2021\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2021\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\Temp\ws-vs2021\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2021\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+C:\Temp\ws-vs2021\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+C:\Temp\ws-vs2021\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\Temp\ws-vs2021\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\Temp\ws-vs2021\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+C:\Temp\ws-vs2021\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+C:\Temp\ws-vs2021\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+C:\Temp\ws-vs2021\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+C:\Temp\ws-vs2021\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\Temp\ws-vs2021\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+C:\Temp\ws-vs2021\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
