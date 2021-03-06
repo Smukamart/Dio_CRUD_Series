@@ -32,6 +32,11 @@ namespace DIO.Series
             return Id;
         }
 
+        public bool RetornaExcluido()
+        {
+            return Excluido;
+        }
+
         public void Excluir()
         {
             Excluido = true;
